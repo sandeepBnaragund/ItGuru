@@ -1,0 +1,16 @@
+// console.log(alert("do you want to fuck tavari"));
+let str="     sandeep    ";
+console.log(str.charAt(2));
+console.log(str.length);
+console.log(str.replaceAll("e","a"));
+console.log(str.split("").reverse().join());
+console.log(str.slice(2,5));
+console.log(str.toUpperCase());
+console.log(str.endsWith("p"));
+console.log(str.concat(" b naragund"));
+console.log(str.lastIndexOf("e"));
+console.log(str.match("s"));
+console.log(str.padStart(15,"%"));
+console.log(str.trimEnd());
+console.log(str.trimStart());
+console.log(str.trim());
